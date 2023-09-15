@@ -1,0 +1,7 @@
+{
+  "name": "travelator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
